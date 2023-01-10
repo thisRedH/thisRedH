@@ -12,7 +12,7 @@ public:
    int age = 16;
    char* country = "Belgium";
    std::vector<std::string> tongues{"German", "English", "(French)"};
-   std::vector<std::string> languages{"C++", "C#", "Python"}; // +some that im a newbie at (Java, Rust, PHP, ...)
+   std::vector<std::string> languages{"C++", "C#", "Python"}; // + some that im a newbie at (Java, Rust, PHP, ...)
    bool employed = false;
 
 private:
@@ -27,3 +27,5 @@ private:
 	Tongues: German, English, (French)<br>
 	Programming Languages: C++, C#, Python, (...)<br>
 	Employed: No
+
+![thisRedH's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisRedH&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
