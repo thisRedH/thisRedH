@@ -5,15 +5,15 @@
 ```cpp
 class RedH {
 public:
-  const char* name = "Matthias";
-  int age = 16;
-  char* country = "Belgium";
-  char[][] tongues = {"German", "English", "(French)"};
-  char[][] languages = {"C++", "C#", "Python"};
-  bool empoyed = false;
+   const char* name = "Matthias";
+   int age = 16;
+   char* country = "Belgium";
+   char[][] tongues = {"German", "English", "(French)"};
+   char[][] languages = {"C++", "C#", "Python"};
+   bool empoyed = false;
 
 private:
-  char* browserHistory;
+   char* browserHistory;
 }
 ```
 
