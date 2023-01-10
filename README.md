@@ -2,8 +2,7 @@
 
 **`Self thought Computer enthusiast`**
 
-I'm an Digital Craftsman who began an programming journey in 2019.\
-Currently, I am a person with a broad range of interests within computer science, including: computer graphics, physics, computer vision, Linux/server administration, Docker, PC hardware, and much more.
+I am a Digital Craftsman with a broad range of interests within computer science, including: computer graphics, physics, computer vision, Linux/server administration, Docker, PC hardware, and much more.
 #
 ```cpp
 class RedH {
@@ -27,5 +26,11 @@ private:
 	Tongues: German, English, (French)<br>
 	Programming Languages: C++, C#, Python, (...)<br>
 	Employed: No
+</details>
 
-![thisRedH's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisRedH&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+### Contact Me:
+[Discord](https://discordapp.com/users/1048765572109832252)
+
+<!-- ![thisRedH's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisRedH&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
