@@ -1,4 +1,28 @@
-### Hi there 👋
+# thisRedH
+
+**`Self thought Computer enthusiast`**
+
+
+```cpp
+class RedH {
+public:
+	const char* name = "Matthias";
+	int age = 16;
+
+private:
+	char* BrowserHistory;
+}
+```
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **thisRedH/thisRedH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
