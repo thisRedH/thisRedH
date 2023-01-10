@@ -11,18 +11,18 @@ public:
    const char* name = "Matthias Roth";
    int age = 16;
    char* country = "Belgium";
-   char[][] tongues = {"German", "English", "(French)"};
-   char[][] languages = {"C++", "C#", "Python"};
+   std::vector<std::string> tongues{"German", "English", "(French)"};
+   std::vector<std::string> languages{"C++", "C#", "Python"};
    bool empoyed = false;
 
 private:
    char* browserHistory;
-}
+};
 ```
 
 
 
-
+<details><summary>CLICK ME</summary>
 
 
 
