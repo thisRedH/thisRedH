@@ -12,7 +12,7 @@ public:
    int age = 16;
    char* country = "Belgium";
    std::vector<std::string> tongues{"German", "English", "(French)"};
-   std::vector<std::string> languages{"C++", "C#", "Python"}; // + some that im a newbie at
+   std::vector<std::string> languages{"C++", "C#", "Python"}; // +some that im a newbie at (Java, Rust, PHP, ...)
    bool empoyed = false;
 
 private:
