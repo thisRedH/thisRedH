@@ -13,7 +13,7 @@ public:
    char* country = "Belgium";
    std::vector<std::string> tongues{"German", "English", "(French)"};
    std::vector<std::string> languages{"C++", "C#", "Python"}; // +some that im a newbie at (Java, Rust, PHP, ...)
-   bool empoyed = false;
+   bool employed = false;
 
 private:
    char* browserHistory;
@@ -26,3 +26,4 @@ private:
 	Country: Belgium<br>
 	Tongues: German, English, (French)<br>
 	Programming Languages: C++, C#, Python, (...)
+	Employed: No
