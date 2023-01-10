@@ -25,5 +25,5 @@ private:
 	Age: 16<br>
 	Country: Belgium<br>
 	Tongues: German, English, (French)<br>
-	Programming Languages: C++, C#, Python, (...)
+	Programming Languages: C++, C#, Python, (...)<br>
 	Employed: No
