@@ -2,10 +2,13 @@
 
 **`Self thought Computer enthusiast`**
 
+I'm an Digital Craftsman who began an programming journey in 2019.\
+Currently, I am a person with a broad range of interests within computer science, including: computer graphics, physics, computer vision, Linux/server administration, Docker, PC hardware, and much more.
+
 ```cpp
 class RedH {
 public:
-   const char* name = "Matthias";
+   const char* name = "Matthias Roth";
    int age = 16;
    char* country = "Belgium";
    char[][] tongues = {"German", "English", "(French)"};
@@ -16,10 +19,6 @@ private:
    char* browserHistory;
 }
 ```
-
-
-
-
 
 
 
