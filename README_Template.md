@@ -8,7 +8,7 @@ I am a Digital Craftsman with a broad range of interests within computer science
 class RedH {
 public:
    const char* name = "Matthias Roth";
-   int age = 23;
+   int age = <+AGE+>;
    char* country = "Belgium";
    std::vector<std::string> tongues{"German", "English", "(French)"};
    std::vector<std::string> languages{"C++", "C#", "Python"}; // + some that im a newbie at (Java, Rust, PHP, ...)
@@ -21,7 +21,7 @@ private:
 
 <details><summary>Non Code Version</summary>
 	Name: Matthias Roth<br>
-	Age: 23<br>
+	Age: <+AGE+><br>
 	Country: Belgium<br>
 	Tongues: German, English, (French)<br>
 	Programming Languages: C++, C#, Python, (...)<br>

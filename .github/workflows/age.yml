@@ -13,4 +13,15 @@ jobs:
 
       - name: Update age
         run: |
-          echo working on it
+          NEW_AGE="$((`date +'%Y'` - 2006))",
+          sed "s/<+AGE+>/$NEW_AGE/" ./README_Template.md > ./README.md
+      - name: switching from HTTPS to SSH
+        run: git remote set-url origin ${{ secrets.ssh }}
+      - name: stage changed files
+        run: git add ./README.md
+      - name: commit changed files
+        run: git commit -m "Auto updating age"
+      - name: fetch from main
+        run: git fetch origin main
+      - name: push to main
+        run: git push origin HEAD:main
