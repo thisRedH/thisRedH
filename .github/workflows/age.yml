@@ -1,0 +1,16 @@
+name: Update age
+
+on:
+  schedule:
+    - cron: "0 1 19 1 *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update age
+        run: |
+          echo working on it
