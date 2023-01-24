@@ -18,9 +18,9 @@ jobs:
           sed "s/<+AGE+>/$NEW_AGE/" ./README_Template.md > ./README.md
 
       - name: Commit and push changes
-            run: |
-              git config --global user.email "${{ secrets.EMAIL }}"
-              git config --global user.name "${{ secrets.NAME }}"
-              git add .
-              git commit -m "Automatic updatet age"
-              git push origin main
+        run: |
+          git config --global user.email "${{ secrets.EMAIL }}"
+          git config --global user.name "${{ secrets.NAME }}"
+          git add .
+          git commit -m "Automatic updatet age"
+          git push origin main
