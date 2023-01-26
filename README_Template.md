@@ -20,20 +20,18 @@ private:
 ```
 
 <details><summary>Non Code Version</summary>
-	Name: Matthias Roth<br>
-	Age: <+AGE+><br>
-	Country: Belgium<br>
-	Tongues: German, English, (French)<br>
-	Programming Languages: C++, C#, Python, (...)<br>
-	Employed: No
+	&emsp;&emsp;Name: Matthias Roth<br>
+	&emsp;&emsp;Age: <+AGE+><br>
+	&emsp;&emsp;Country: Belgium<br>
+	&emsp;&emsp;Tongues: German, English, (French)<br>
+	&emsp;&emsp;Programming Languages: C++, C#, Python, (...)<br>
+	&emsp;&emsp;Employed: No
 </details>
 
----
+#
 
-<div align="center">
-	<h3>Contact Me:</h3>
-	<a href="https://discordapp.com/users/1048765572109832252">Discord</a>&nbsp;
-	<a href="mailto:redh.the.dev@gmail.com">E-Mail</a>
-</div>
+<h3>Contact Me:</h3>
+<a href="https://discordapp.com/users/1048765572109832252">Discord</a>&nbsp;
+<a href="mailto:redh.the.dev@gmail.com">E-Mail</a>
 
 <!-- ![thisRedH's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisRedH&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
