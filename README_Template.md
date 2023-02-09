@@ -1,21 +1,30 @@
-# thisRedH
+# thisRedH - Matthias
 
 **`Self thought Computer enthusiast`**
 
 I am a Digital Craftsman with a broad range of interests within computer science, including: computer graphics, physics, computer vision, Linux/server administration, Docker, PC hardware, and much more.
-#
+
+My dream is to become a low-level developer, focusing on the creation of game engines and operating systems. However, if this is not possible, i am prepared to fall back as an application or server developer, as these fields still align with my passion for coding and technology.
+
+## Technologies
+
+![cpp]()
+![python]()
+![cs]()
+![bash]() &nbsp; And Many more
+
+##
 ```cpp
 class RedH {
 public:
-   const char* name = "Matthias Roth";
+   const char name[] = "Matthias Roth";
    int age = <+AGE+>;
-   char* country = "Belgium";
-   std::vector<std::string> tongues{"German", "English", "(French)"};
-   std::vector<std::string> languages{"C++", "C#", "Python"}; // + some that im a newbie at (Java, Rust, PHP, ...)
+   std::string country = "Belgium";
+   std::vector<std::string> languages{"German", "English", "(French)"};
    bool employed = false;
 
 private:
-   char* browserHistory;
+   std::string browserHistory;
 };
 ```
 
@@ -23,8 +32,7 @@ private:
 	&emsp;&emsp;Name: Matthias Roth<br>
 	&emsp;&emsp;Age: <+AGE+><br>
 	&emsp;&emsp;Country: Belgium<br>
-	&emsp;&emsp;Tongues: German, English, (French)<br>
-	&emsp;&emsp;Programming Languages: C++, C#, Python, (...)<br>
+	&emsp;&emsp;Languages: German, English, (French)<br>
 	&emsp;&emsp;Employed: No
 </details>
 
