@@ -8,11 +8,11 @@ My dream is to become a low-level developer, focusing on the creation of game en
 
 ## Technologies
 
-[![cpp](https://img.shields.io/badge/Language-C%2B%2B-green?logo=cplusplus&logoColor=white&style=flat)](https://cplusplus.com)
+[![cpp](https://img.shields.io/badge/Language-C%2FC%2B%2B-green?logo=cplusplus&logoColor=white&style=flat)](https://cplusplus.com)
 [![python](https://img.shields.io/badge/Language-Python-green?logo=Python&logoColor=white&style=flat)](https://www.python.org)
 [![cs](https://img.shields.io/badge/Language-C%23-orange?logo=csharp&logoColor=white&style=flat)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![bash](https://img.shields.io/badge/Language-Bash-orange?logo=GNU%20Bash&logoColor=white&style=flat)](https://www.gnu.org/software/bash/)
-[![others](https://img.shields.io/badge/Language-Others-red?style=flat)](#)
+[![others](https://img.shields.io/badge/Language-Others-red?style=flat)](skillset.md)
 
 [![cmake](https://img.shields.io/badge/Build%20Bystem-CMake-green?logo=cmake&logoColor=white&style=flat)](https://cmake.org)
 [![docker](https://img.shields.io/badge/Container-Docker-green?logo=docker&logoColor=white&style=flat)](https://hub.docker.com/u/thisredh)
