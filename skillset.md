@@ -9,3 +9,4 @@ Disclaimer: Self thought, so everything is my personal Opinion
 | [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) | +++ | [Powershell](https://learn.microsoft.com/en-us/powershell/) | ++ |
 | [Bash](https://www.gnu.org/software/bash/) | +++ | [ASM x86](https://www.wikipedia.org/wiki/X86_assembly_language) | + |
 | [Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands) | ++ |
+(+++++ is best and + is lowest)
