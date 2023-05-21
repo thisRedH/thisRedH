@@ -44,7 +44,7 @@ private:
 </br><sub>*Note that color's in badges represent how fluent i am with those.</sub>
 ##
 <h3>Contact Me:</h3>
-<a href="https://discordapp.com/users/1048765572109832252" target="_blank">Discord</a>&nbsp;
-<a href="mailto:redh.the.dev@gmail.com" target="_blank">E-Mail</a>
+<a href="https://discordapp.com/users/1048765572109832252">Discord</a>&nbsp;
+<a href="mailto:redh.the.dev@gmail.com">E-Mail</a>
 
 <!-- ![thisRedH's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisRedH&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
