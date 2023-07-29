@@ -1,15 +1,20 @@
 # thisRedH - Matthias
 
-**`Self thought Computer enthusiast`**
+**`Self-taught Computer enthusiast`**
 
-I am a Digital Craftsman with a broad range of interests within computer science, including: computer graphics, physics, computer vision, Linux/server administration, Docker, PC hardware, and much more.
+I am a Digital Craftsman with a broad range of interests within computer science, including: computer graphics, administration, Security, PC hardware, and much more. I love learning and tinkering with new things, in every direction.
 
-My dream is to become a low-level developer, focusing on the creation of game engines and operating systems. However, if this is not possible, I am prepared to fall back as an application or server developer, as these fields still align with my passion for coding and technology.
+My goal is to become a low-level developer, focusing on the creation of game engines or operating systems. However, if this is not possible, I am prepared to fall back as an application or backend developer, as these fields still align with my passion for coding and technology.
+
+<details><summary>Note</summary>
+&emsp;I have a special talent in the art of Yak Shaving.<br>
+&emsp;So if you ever find me tangled up in some seemingly unrelated tasks, rest assured,<br>
+&emsp;I'm probably just on an adventurous quest to optimize my coding universe!
+</details>
 
 [![cpp](https://img.shields.io/badge/Language-C%2FC%2B%2B-success?logo=cplusplus&logoColor=white&style=flat)](https://cplusplus.com)
 [![python](https://img.shields.io/badge/Language-Python-success?logo=Python&logoColor=white&style=flat)](https://www.python.org)
-[![cs](https://img.shields.io/badge/Language-C%23-orange?logo=csharp&logoColor=white&style=flat)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![bash](https://img.shields.io/badge/Language-Bash-orange?logo=GNU%20Bash&logoColor=white&style=flat)](https://www.gnu.org/software/bash/)
+[![rust](https://img.shields.io/badge/Language-Rust-orange?logo=rust&logoColor=white&style=flat)](https://www.rust-lang.org)
 [![others](https://img.shields.io/badge/Language-Others-red?style=flat)](skillset.md#programming-languages) </br>
 ```cpp
 class RedH {
@@ -33,15 +38,9 @@ private:
 </details>
 
 #
-[![cmake](https://img.shields.io/badge/Build%20Bystem-CMake-success?logo=cmake&logoColor=white&style=flat)](https://cmake.org)
-[![docker](https://img.shields.io/badge/Container-Docker-success?logo=docker&logoColor=white&style=flat)](https://hub.docker.com/u/thisredh)
-[![unity](https://img.shields.io/badge/Engine-Unity-orange?logo=unity&logoColor=white&style=flat)](https://www.unity.com)
-[![vulkan](https://img.shields.io/badge/API-Vulkan-red?logo=vulkan&logoColor=white&style=flat)](https://www.vulkan.org)
-
-[![windows](https://img.shields.io/badge/OS-Windows%2010-success?logo=windows&logoColor=white&style=flat)](https://www.wikipedia.org/wiki/Microsoft_Windows_10)
-[![debian](https://img.shields.io/badge/OS-Debian%2FUbuntu-success?logo=ubuntu&logoColor=white&style=flat)](https://ubuntu.com)
-[![arch](https://img.shields.io/badge/OS-Arch%2FManjaro-orange?logo=manjaro&logoColor=white&style=flat)](https://manjaro.org)
-</br><sub>*Note that color's in badges represent how fluent i am with those.</sub>
+[![windows-10](https://img.shields.io/badge/OS-Windows%2010-success?logo=windows&logoColor=white&style=flat)](https://www.wikipedia.org/wiki/Microsoft_Windows_10)
+[![linux-mint](https://img.shields.io/badge/OS-Mint%2FUbuntu-success?logo=linuxmint&logoColor=white&style=flat)](https://ubuntu.com)
+[![linux-arch](https://img.shields.io/badge/OS-Arch-success?logo=archlinux&logoColor=white&style=flat)](https://manjaro.org)
 ##
 <h3>Contact Me:</h3>
 <a href="https://discordapp.com/users/1048765572109832252">Discord</a>&nbsp;
