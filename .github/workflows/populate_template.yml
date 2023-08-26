@@ -1,4 +1,4 @@
-name: Merge Template
+name: Populate Template
 
 on:
   workflow_dispatch:
