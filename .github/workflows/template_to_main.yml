@@ -2,7 +2,9 @@ name: Merge Template
 
 on:
   workflow_dispatch:
-
+  push:
+    paths:
+      - 'README_Template.md'
 
 jobs:
   build:
