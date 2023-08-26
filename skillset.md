@@ -1,13 +1,35 @@
 # My Skillset
 Disclaimer: Self thought, so everything is my personal Opinion
 
-### Programming Language's
-| Language | Skill | Language | Skill |
-| --- | --- | --- | --- |
-| [C/C++](https://cplusplus.com) | ++++ | [Java](https://www.java.com/) | ++ |
-| [Python](https://www.python.org) | ++++ | [Rust](https://www.rust-lang.org) | ++ |
-| [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) | +++ | [Powershell](https://learn.microsoft.com/en-us/powershell/) | ++ |
-| [Bash](https://www.gnu.org/software/bash/) | +++ | [ASM x86](https://www.wikipedia.org/wiki/X86_assembly_language) | + |
-| [Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands) | ++ |
+## Programming Language's
 
-(+++++ is best and + is lowest)
+### Low-Level
+
+Some x86 and 6502 ASM (Reverse Engineering)
+
+### Mid-Level
+
+[C](https://en.cppreference.com/w/c) / [C++](https://en.cppreference.com/w/cpp): GNU Toolchain, Clang, CMake, SDL2  
+[Rust](https://www.rust-lang.org): Cargo, Tokio  
+
+### High-Level
+
+[Python](https://www.python.org): CPython, Flask, Nextcord/discord.py  
+[C#](https://learn.microsoft.com/en-us/dotnet/csharp/): Unity  
+[JavaScript](https://de.wikipedia.org/wiki/JavaScript): Node.js  
+
+### Scripting
+
+[Shell](https://www.gnu.org/software/bash/): Bash, zsh  
+[Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)  
+
+#### What i used them for:
+
+C/C++: Render-Engine, Language Interpreter  
+Rust: Custom Servers, REST Api  
+
+Python: Prototyping, Automation, REST Api, File Manupilation, Discord Bot, ...  
+C#: Game, Windows Automation  
+JavaScript: Chrome Plugin, Web UI for Cli program, Website  
+
+Bash/Batch: OS Automation, Docker
