@@ -1,7 +1,9 @@
-# My Skillset
-Disclaimer: Self thought, so everything is my personal Opinion
 
-## Programming Language's
+# My Skillset
+
+Disclaimer: Self-taught, so everything is my personal opinion.
+
+## Programming Languages
 
 ### Low-Level
 
@@ -14,22 +16,22 @@ Some x86 and 6502 ASM (Reverse Engineering)
 
 ### High-Level
 
-[Python](https://www.python.org): CPython, Flask, Nextcord/discord.py  
+[Python](https://www.python.org): CPython, Flask, discord.py/Nextcord  
 [C#](https://learn.microsoft.com/en-us/dotnet/csharp/): Unity  
-[JavaScript](https://de.wikipedia.org/wiki/JavaScript): Node.js  
+[JavaScript](https://en.wikipedia.org/wiki/JavaScript): Node.js  
 
 ### Scripting
 
 [Shell](https://www.gnu.org/software/bash/): Bash, zsh  
 [Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)  
 
-#### What i used them for:
+#### What I used them for:
 
-C/C++: Render-Engine, Language Interpreter  
-Rust: Custom Servers, REST Api  
+C/C++: Render Engine, Language Interpreter  
+Rust: Custom Servers, REST API  
 
-Python: Prototyping, Automation, REST Api, File Manupilation, Discord Bot, ...  
-C#: Game, Windows Automation  
-JavaScript: Chrome Plugin, Web UI for Cli program, Website  
+Python: Prototyping, Automation, REST API, File Manipulation, Discord Bot, ...  
+C#: Game Development, Windows Automation  
+JavaScript: Chrome Plugin, Web UI for CLI program, Website  
 
 Bash/Batch: OS Automation, Docker
