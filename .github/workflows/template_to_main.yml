@@ -23,4 +23,4 @@ jobs:
           git config --global user.name "${{ secrets.NAME }}"
           git add .
           git commit -m "Template merge"
-          git push origin main
+          git push

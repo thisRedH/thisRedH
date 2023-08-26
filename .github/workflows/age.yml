@@ -23,4 +23,4 @@ jobs:
           git config --global user.name "${{ secrets.NAME }}"
           git add .
           git commit -m "Automatic updatet age"
-          git push origin main
+          git push
