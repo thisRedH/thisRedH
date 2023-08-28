@@ -14,7 +14,7 @@ My goal is to become a low-level developer, focusing on the creation of game eng
 
 [![cpp](https://img.shields.io/badge/Language-C%2FC%2B%2B-success?logo=cplusplus&logoColor=white&style=flat)](https://cplusplus.com)
 [![python](https://img.shields.io/badge/Language-Python-success?logo=Python&logoColor=white&style=flat)](https://www.python.org)
-[![rust](https://img.shields.io/badge/Language-Rust-orange?logo=rust&logoColor=white&style=flat)](https://www.rust-lang.org)
+[![rust](https://img.shields.io/badge/Language-Rust-success?logo=rust&logoColor=white&style=flat)](https://www.rust-lang.org)
 [![others](https://img.shields.io/badge/Language-Others-red?style=flat)](skillset.md#programming-languages) </br>
 ```cpp
 class RedH {
@@ -36,6 +36,8 @@ private:
 	&emsp;&emsp;Languages: German, English, (French)<br>
 	&emsp;&emsp;Employed: No
 </details>
+
+[My Skillset](skillset.md)
 
 #
 [![windows-10](https://img.shields.io/badge/OS-Windows%2010-success?logo=windows&logoColor=white&style=flat)](https://www.wikipedia.org/wiki/Microsoft_Windows_10)
