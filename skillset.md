@@ -23,7 +23,7 @@
 
 ### Low-Level
 
-Some x86 and 6502 ASM (Reverse Engineering)
+Some x86 and 6502 ASM
 
 ### Mid-Level
 
@@ -42,6 +42,8 @@ Some x86 and 6502 ASM (Reverse Engineering)
 [Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)  
 
 ### What I used them for
+
+ASM: Reverse Engineering, small Apple ][ programs
 
 C/C++: learning exercises, Language Interpreter  
 Rust: Custom Servers, REST API  
