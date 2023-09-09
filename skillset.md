@@ -7,7 +7,6 @@
 ## Table of contents
 
 - [Programming Languages](#programming-languages)  
-- [Tools](#tools)  
 - [PC](#pc)  
   - [Building & Planning](#building--planning)  
   - [Setup & Troubleshooting](#setup--troubleshooting)  
@@ -52,14 +51,6 @@ C#: Game Development, Windows Automation
 JavaScript: Chrome Plugin, Web UI for CLI program, Website  
 
 Bash/Batch: OS Automation, Docker
-
-## Tools
-
-- Operating Systems: Win95-Win10, Arch and ParrotOS  
-- IDE/Text Editors: VSCode, VS-22, VS-03 and Nvim  
-- Terminal Emulators: Windows Terminal and Alacritty  
-- Version Control: git-cli  
-- Type 2 Hypervisor: VMware Workstation PRO 17.
 
 ## PC
 
