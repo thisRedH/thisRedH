@@ -28,11 +28,11 @@ Some x86 and 6502 ASM
 ### Mid-Level
 
 [C](https://en.cppreference.com/w/c) / [C++](https://en.cppreference.com/w/cpp): GNU Toolchain, Clang, CMake, SDL2  
-[Rust](https://www.rust-lang.org): Cargo, Tokio  
+[Rust](https://www.rust-lang.org): Cargo, Tokio, axum  
 
 ### High-Level
 
-[Python](https://www.python.org): CPython, Flask, discord.py/Nextcord  
+[Python](https://www.python.org): CPython, PyPy, Cython, Flask, discord.py/Nextcord  
 [C#](https://learn.microsoft.com/en-us/dotnet/csharp/): Unity  
 [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Node.js  
 
