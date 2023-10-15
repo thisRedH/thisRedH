@@ -23,36 +23,49 @@
 
 ### Low-Level
 
-Some x86 and 6502 ASM
+[x86]: IDA Pro, Ghidra  
 
 ### Mid-Level
 
-[C](https://en.cppreference.com/w/c) / [C++](https://en.cppreference.com/w/cpp): GNU Toolchain, Clang, CMake, SDL2  
-[Rust](https://www.rust-lang.org): Cargo, Tokio, axum  
+[C]/[C++]: GNU Toolchain, Clang, CMake, SDL2  
+[Rust]: Cargo, Tokio, axum  
 
 ### High-Level
 
-[Python](https://www.python.org): CPython, PyPy, Cython, Flask, discord.py/Nextcord  
-[C#](https://learn.microsoft.com/en-us/dotnet/csharp/): Unity  
-[JavaScript](https://en.wikipedia.org/wiki/JavaScript): Node.js  
+[Python]: CPython, PyPy, Cython, Flask, discord.py/Nextcord  
+[C#]: Unity, .NET  
+[JavaScript]: Node.js  
 
 ### Scripting
 
-[Shell](https://www.gnu.org/software/bash/): Bash, zsh  
-[Batch](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands)  
+[Shell]: Bash, zsh  
+[Batch]: CMD, DOS  
 
 ### What I used them for
 
-ASM: Reverse Engineering, small Apple ][ programs
+[x86]: Reverse Engineering  
 
-C/C++: learning exercises, Language Interpreter  
-Rust: Custom Servers, REST API  
+[C]/[C++]: learning exercises, Language Interpreter  
+[Rust]: Custom Servers, REST API  
 
-Python: Prototyping, Automation, REST API, File Manipulation, Discord Bot, ...  
-C#: Game Development, Windows Automation  
-JavaScript: Chrome Plugin, Web UI for CLI program, Website  
+[Python]: Prototyping, Automation, REST API, File Manipulation, Discord Bot, ...  
+[C#]: Game Development, Windows Automation  
+[JavaScript]: Chrome Plugin, Web UI for CLI program, Website  
 
-Bash/Batch: OS Automation, Docker
+[Shell]/[Batch]: OS Automation, Docker
+
+[x86]: https://en.wikipedia.org/wiki/X86_assembly_language
+
+[C]: https://en.cppreference.com/w/c
+[C++]: https://en.cppreference.com/w/cpp
+[Rust]: https://www.rust-lang.org
+
+[Python]: https://www.python.org
+[C#]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[JavaScript]: https://en.wikipedia.org/wiki/JavaScript
+
+[Shell]: https://www.gnu.org/software/bash/
+[Batch]: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
 
 ## PC
 
