@@ -9,12 +9,11 @@ on:
       - 'assets/README_Template.md'
 
 jobs:
-  build:
+  populate:
     runs-on: ubuntu-latest
 
     env:
       CI_COMMIT_MESSAGE: Automatic template population
-      CI_COMMIT_AUTHOR: TemplateBOT
 
     steps:
       - uses: actions/checkout@v4
@@ -23,10 +22,12 @@ jobs:
         run: |
           NEW_AGE="$((`date +'%Y'` - 2006))"
           sed "s/{{AGE}}/$NEW_AGE/" ./assets/README_Template.md > ./README.md
-      - name: Commit and push changes
+      - name: Set git identity
         run: |
-          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
-          git config --global user.email "thisRedH@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Commit and Push to GitHub
+        run: |
           git add README.md
           git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
           git push
