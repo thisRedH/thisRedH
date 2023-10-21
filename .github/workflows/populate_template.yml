@@ -1,4 +1,4 @@
-name: Populate Template
+name: Automatic template population
 
 on:
   workflow_dispatch:
@@ -12,14 +12,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    env:
+      CI_COMMIT_MESSAGE: Automatic template population
+      CI_COMMIT_AUTHOR: TemplateBOT
+
     steps:
       - uses: actions/checkout@v4
 
-      
       - name: Populate age
-        env:
-          CI_COMMIT_MESSAGE: Automatic template population
-          CI_COMMIT_AUTHOR: TemplateBOT
         run: |
           NEW_AGE="$((`date +'%Y'` - 2006))"
           sed "s/{{AGE}}/$NEW_AGE/" ./assets/README_Template.md > ./README.md
