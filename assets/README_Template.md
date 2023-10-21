@@ -46,7 +46,7 @@ private:
 ---
 
 ### Contact Me:
-<a href="https://discordapp.com/users/1048765572109832252">Discord</a>&nbsp;
-<a href="mailto:redh.the.dev@gmail.com">E-Mail</a>
+[Discord](https://discordapp.com/users/1048765572109832252)&nbsp;
+[E-Mail](mailto:redh.the.dev@gmail.com)
 
 <!-- ![thisRedH's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisRedH&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
