@@ -41,13 +41,14 @@ private:
 &emsp;&emsp;Employed: No
 </details>
 
+![thisRedH's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisRedH&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 [My Skillset](skillset.md)
 
 ---
 
 ### Contact Me:
 [Discord](https://discordapp.com/users/1048765572109832252)&nbsp;
-[E-Mail](mailto:redh.the.dev@gmail.com)
+[E-Mail](mailto:redh@redh.dev)
 
-<!-- ![thisRedH's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisRedH&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-<!---->
+<!-- I smell an Easter egg ^-^ -->
