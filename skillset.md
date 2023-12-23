@@ -113,8 +113,3 @@
 - Experience in teaching programming concepts to a wide range of learners, from beginners to students.  
 - Proficient in tailoring explanations to different levels of knowledge, ranging from Old ladie to senior software engineers.  
 - Quick learner capable of mastering new topics before teaching them.
-
-## Next Steps
-
-I am currently engaging in learning graphic programming using Vulkan and C++, alongside digging into server and socket programming with Rust.  
-My IT journey is increasingly focused on networking, as I am currently digging deeper into both its hardware and software, through designing and building a new home networking solution.  
