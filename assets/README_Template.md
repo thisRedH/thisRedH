@@ -21,7 +21,7 @@ My goal is to become a low-level developer, focusing on the creation of game eng
 ```cpp
 class RedH {
 public:
-   const char* name = "Matthias Roth";
+   const char* name = "Matthias";
    uint8_t age = {{AGE}};
    std::string country = "Belgium";
    std::string languages[3] = {"German", "English", "(French)"};
@@ -34,7 +34,7 @@ private:
 
 <details>
 <summary>Non Code Version</summary>
-&emsp;&emsp;Name: Matthias Roth<br>
+&emsp;&emsp;Name: Matthias<br>
 &emsp;&emsp;Age: {{AGE}}<br>
 &emsp;&emsp;Country: Belgium<br>
 &emsp;&emsp;Languages: German, English, (French)<br>
