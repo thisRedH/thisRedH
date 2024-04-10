@@ -13,6 +13,7 @@ My goal is to become a low-level developer, focusing on the creation of game eng
 &emsp;I'm probably just on an adventurous quest to optimize my coding universe!
 </details>
 
+[![profile views](https://komarev.com/ghpvc/?username=thisRedH&color=red)](https://github.com/antonkomarev/github-profile-views-counter)
 [![cpp](https://img.shields.io/badge/Language-C%2FC%2B%2B-success?logo=cplusplus&logoColor=white&style=flat)](https://cplusplus.com)
 [![python](https://img.shields.io/badge/Language-Python-success?logo=Python&logoColor=white&style=flat)](https://www.python.org)
 [![rust](https://img.shields.io/badge/Language-Rust-success?logo=rust&logoColor=white&style=flat)](https://www.rust-lang.org)
