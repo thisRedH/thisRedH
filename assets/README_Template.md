@@ -49,6 +49,7 @@ private:
 ---
 
 ### Contact Me:
+
 [Discord](https://discordapp.com/users/1048765572109832252)&nbsp;
 [E-Mail](mailto:redh@redh.dev)
 
