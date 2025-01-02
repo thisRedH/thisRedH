@@ -26,7 +26,7 @@ public:
    uint8_t age = {{AGE}};
    std::string country = "Belgium";
    std::string languages[3] = {"German", "English", "(French)"};
-   bool employed = false;
+   bool employed = true;
 
 private:
    std::string m_browserHistory;
@@ -39,7 +39,7 @@ private:
 &emsp;&emsp;Age: {{AGE}}<br>
 &emsp;&emsp;Country: Belgium<br>
 &emsp;&emsp;Languages: German, English, (French)<br>
-&emsp;&emsp;Employed: No
+&emsp;&emsp;Employed: Yes
 </details>
 
 ![thisRedH's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisRedH&theme=dracula&hide_border=false&include_all_commits=true&layout=compact)
