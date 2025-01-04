@@ -20,8 +20,8 @@ jobs:
 
       - name: Populate age
         run: |
-          NEW_AGE="$((`date +'%Y'` - 2006))"
-          sed "s/{{AGE}}/$NEW_AGE/" ./assets/README_Template.md > ./README.md
+          AGE=$((($(date +%s) - $(date -d "2006-01-19" +%s)) / 31556926))
+          sed "s/{{AGE}}/$AGE/" ./assets/README_Template.md > ./README.md
       - name: Set git identity
         run: |
           git config --global user.name "github-actions[bot]"
