@@ -23,10 +23,10 @@ My goal is to become a low-level developer, focusing on the creation of game eng
 class RedH {
 public:
    const char* name = "Matthias";
-   uint8_t age = 18;
+   uint8_t age = 19;
    std::string country = "Belgium";
    std::string languages[3] = {"German", "English", "(French)"};
-   bool employed = false;
+   bool employed = true;
 
 private:
    std::string m_browserHistory;
@@ -36,10 +36,10 @@ private:
 <details>
 <summary>Non Code Version</summary>
 &emsp;&emsp;Name: Matthias<br>
-&emsp;&emsp;Age: 18<br>
+&emsp;&emsp;Age: 19<br>
 &emsp;&emsp;Country: Belgium<br>
 &emsp;&emsp;Languages: German, English, (French)<br>
-&emsp;&emsp;Employed: No
+&emsp;&emsp;Employed: Yes
 </details>
 
 ![thisRedH's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisRedH&theme=dracula&hide_border=false&include_all_commits=true&layout=compact)
