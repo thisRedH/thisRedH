@@ -38,6 +38,6 @@ jobs:
 
       - name: Commit cards
         run: |
-          git add asstes/github-readme-stats
+          git add assets/github-readme-stats
           git commit -m "${{ env.CI_COMMIT_MESSAGE }}" || exit 0
           git push
