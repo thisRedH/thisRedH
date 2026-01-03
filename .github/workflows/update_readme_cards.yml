@@ -1,0 +1,43 @@
+name: Update README cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0,12 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    env:
+      CI_COMMIT_MESSAGE: Update github-readme-stats
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=dracula&show_icons=true
+          path: assets/github-readme-stats/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=dracula&hide_border=false&include_all_commits=true&layout=compact
+          path: assets/github-readme-stats/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set git identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit cards
+        run: |
+          git add asstes/github-readme-stats
+          git commit -m "${{ env.CI_COMMIT_MESSAGE }}" || exit 0
+          git push
