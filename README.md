@@ -23,7 +23,7 @@ My goal is to become a low-level developer, focusing on the creation of game eng
 class RedH {
 public:
    const char* name = "Matthias";
-   uint8_t age = 19;
+   uint8_t age = 20;
    std::string country = "Belgium";
    std::string languages[3] = {"German", "English", "(French)"};
    bool employed = true;
@@ -36,7 +36,7 @@ private:
 <details>
 <summary>Non Code Version</summary>
 &emsp;&emsp;Name: Matthias<br>
-&emsp;&emsp;Age: 19<br>
+&emsp;&emsp;Age: 20<br>
 &emsp;&emsp;Country: Belgium<br>
 &emsp;&emsp;Languages: German, English, (French)<br>
 &emsp;&emsp;Employed: Yes
